@@ -1,1 +1,0 @@
-This folder contains Sample Data used in the project
