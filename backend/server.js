@@ -30,6 +30,15 @@ app.get("/api/disease-data", async (req, res) => {
   }
 });
 
+app.post("/api/save-settings", (req, res) => {
+    const { darkMode, language, autoUpdate } = req.body;
+  
+    // Simulate saving to a database or configuration file
+    console.log("Settings saved:", { darkMode, language, autoUpdate });
+    res.status(200).send("Settings saved successfully");
+  });
+  
+
 // Start the server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
