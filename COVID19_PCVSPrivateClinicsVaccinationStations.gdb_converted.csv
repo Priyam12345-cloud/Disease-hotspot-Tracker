@@ -1,0 +1,232 @@
+﻿OBJECTID,CVC_ID,DISTRICT_EN,DISTRICT_TC,PCVS_NAME_EN,PCVS_NAME_TC,MEDICAL_ORGANIZATION_EN,MEDICAL_ORGANIZATION_TC,STATION_ADDRESS_EN,STATION_ADDRESS_TC,TELEPHONE_EN,TELEPHONE_TC,VACCINE_NAME,OPENING_HOURS_EN,OPENING_HOURS_TC,URL_EN,URL_TC,EFFECTIVE_DATE_FROM,EASTING,NORTHING,GeometryEasting,GeometryNorthing
+1,C02269,Central & Western District,中西區,天下仁心 (信使核糖核酸),Humanity & Health (mRNA),Humanity & Health Medical Centre Limited,天下仁心醫療中心有限公司,"Room 1401-02, 14/F, 9 Queen's Road Central, CENTRAL, HONG KONG (mRNA)",香港中環皇后大道中9號14樓1401-02室 (信使核糖核酸),28613777,28613777,mRNA,"Monday - Friday 1:30p.m. to 5:00p.m.
+Others:
+Closed – Saturday, Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Monday, Thursday 1:30p.m. to 5:00p.m.
+Others:
+Closed - Tuesday, Wednesday, Friday, Saturday, Sunday, Public holiday)","星期一至五下午 1 時 30 分至 5 時
+其他：
+休息 – 星期六、日、公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期一、四下午 1 時 30 分至 5 時
+其他：
+休息 – 星期二、三、五、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-01,834351,815710,834351,815710
+2,C02270,Central & Western District,中西區,尚至健康,Virtus Care,Virtus Care Limited,尚至健康有限公司,"5/F, Virtus Medical Tower, 122 Queen's Road Central, CENTRAL, HONG KONG",香港中環皇后大道中122號尚至醫療大樓5樓,63656198,63656198,mRNA,"Monday - Friday 3:00p.m. to 5:00p.m.
+Others:
+Closed – Saturday, Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Wednesday, Thursday, Friday 3:00p.m. to 5:00p.m.
+Others:
+Closed - Monday, Tuesday, Saturday, Sunday, Public holiday)","星期一至五下午 3 時至 5 時
+其他：
+休息 – 星期六、日、公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期三、四、五下午 3 時至下午 5時
+其他：
+休息 – 星期一、二、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-01,833961,816101,833961,816101
+3,C02272,Wan Chai District,灣仔區,香港國際專業體檢協會,HKIPHCA,Hong Kong International Professional Health Check Association,香港國際專業體檢協會,"11/F, Sino Plaza, 255-257 Gloucester Road, Causeway Bay, Hong Kong",香港銅鑼灣告士打道255-257號信和廣場11樓全層,27520022,27520022,mRNA,"Monday - Saturday 9:00a.m. to 12:30p.m. and 2:00p.m. to 5:30p.m.Others:
+Closed - Sunday, Public holiday","星期一至六上午9時至下午12時30分、下午2時至5時30分
+其他：
+休息 – 星期日、公眾假期",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-01,836841,815840,836841,815840
+4,C02277,Yau Tsim Mong District,油尖旺區,莊柏醫療,JP Partners Medical,JP Partners Medical Centre Limited,莊柏醫療中心有限公司,"18/F, 238 Building, 238 Nathan Road, JORDAN, KOWLOON",九龍佐敦彌敦道238號18樓,26180266,26180266,mRNA,"Monday 3:00p.m. to 5:30p.m. , Tuesday, Wednesday, Friday 9:00a.m. to 12:30p.m., Thursday & Saturday 9:00a.m. to 12:30p.m. and 3:00p.m. to 5:30p.m.
+Others:
+Closed - Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Monday, Friday 9:00a.m. to 1:00 p.m. and 3:00p.m. to 6:00p.m. 
+Others:
+Closed - Tuesday, Wednesday, Thursday, Saturday, Sunday, Public holiday)","星期一下午 3 時至 5 時 30 分、星期二、三、五上午 9 時至下午 12 時 30 分、星期四、六上午 9 時至下午 12 時 30 分及下午 3 時至 5 時 30 分
+其他：
+休息 – 星期日、公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期一、五上午 9 時至下午 1 時及下午 3 時至 6 時 
+其他： 
+休息 –星期二、三、四、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-01,835760,818429,835760,818429
+5,C02282,Tuen Mun District,屯門區,新都專科醫療中心,New Town Medical,New Town Medical,新都醫療,"Room 214-215, 220-225, New Town Mansion, 2 Tuen Lee Street, TUEN MUN, NEW TERRITORIES","新界屯門屯利街2號新都商場二樓214-215, 220-225室",24583209,24583209,mRNA,"Monday - Friday 10:00a.m. to 12:30p.m. and 3:00p.m. to 6:30p.m and Saturday 10:00a.m. to 12:30p.m. and 3:00p.m. to 6:00p.m.
+Others:
+Closed - Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Monday, Thursday, Friday 10:00a.m. to 12:30p.m. and 3:00p.m. to 6:30p.m
+Others:
+Closed - Tuesday, Wednesday, Saturday, Sunday, Public holiday)","星期一至五上午 10 時至下午 12 時30 分及下午 3 時至 6 時 30 分、星期六上午 10 時至下午 12 時 30 分及下午 3時至 6 時
+其他：
+休息 - 星期日、公眾假期
+(以下安排適用於 15/08/2024 -17/11/2024：
+星期一、四、五上午 10 時至下午12 時 30 分及下午 3 時至 6 時 30 分
+其他：
+休息 – 星期二、三、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-01,815823,827972,815823,827972
+6,C02283,Tuen Mun District,屯門區,劍橋聯合醫務中心,Cambridge United,Cambridge United Medical Centre,劍橋聯合醫務中心,"Shop 3, G/F, Lee Yuen Mansion, 113-115 Heung Sze Wui Road, TUEN MUN, NEW TERRITORIES",新界屯門鄉事會路113至115號利源樓地下3號舖,24418893,24418893,mRNA,"Monday - Friday 9:00a.m. to 12:30p.m.
+Others:
+Closed - Saturday, Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Tuesday, Thursday 9:00a.m. to 12:30p.m.
+Others:
+Closed - Monday, Wednesday, Friday, Saturday, Sunday, Public holiday)","星期一至五上午9時至下午12時30分
+其他：
+休息 - 星期六、日及公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期二、四上午 9 時至下午 12 時30 分 
+其他： 
+休息 – 星期一、三、五、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-20,815468,828733,815468,828733
+7,C02324,Central & Western District,中西區,海灣醫療,Marina Medical,Asia Medical Specialists Limited,亞洲專科醫生有限公司,"7/F, Club Lusitano, 16 Ice House Street, CENTRAL, HONG KONG",香港中環雪廠街16號西洋會所大廈7樓,34206698,34206698,mRNA,"Monday - Friday 10:30a.m. to 1:00p.m. and 2:30p.m. to 6:00p.m. and Saturday 10:00a.m. to 12:30p.m.
+Others:
+Closed – Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Thursday 10:30a.m. to 1:00pm. and 2:30p.m. to 6:00p.m. and Saturday 10:00a.m. to 12:30p.m
+Others:
+Closed - Monday, Tuesday, Wednesday, Friday, Sunday, Public holiday)","星期一至五上午 10 時 30 分至下午1 時及下午 2 時 30 分至下午 6時、星期六上午 10 時至下午 12 時30 分
+其他：
+休息 – 星期日、公眾假期
+(以下安排適用於 15/08/2024 -17/11/2024：
+星期四上午 10 時 30 分至下午 1 時及下午 2 時 30 分至下午 6 時、星期六上午 10 時至下午 12 時 30 分
+其他：
+休息 – 星期一、二、三、五、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-24,834253,815672,834253,815672
+8,C02326,Tuen Mun District,屯門區,心醫館,Mediheart,Mediheart,心醫館,"Shop 8-9, G/F, Chi Lok Fa Yuen, TUEN MUN, NEW TERRITORIES",新界屯門置樂花園地下8-9號舖,24408081,24408081,mRNA,"Monday – Friday 10:00a.m. to 12:00noon and 5:00p.m. to 7:00p.m
+Others:
+Closed - Saturday, Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Thursday, Friday 10:00a.m. to 12:00noon and 5:00p.m. to 7:00p.m.
+Others:
+Closed - Monday, Tuesday, Wednesday, Saturday, Sunday, Public holiday)","星期一至五上午10時至中午12時及下午5時至7時
+其他：
+休息 - 星期六、日、公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：星期四、五上午 10 時至中午 12 時及下午 5 時至下午 7 時
+其他：
+休息 – 星期一、二、三、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-09-24,815964,827573,815964,827573
+9,C02341,Kowloon City District,九龍城區,梁樹標醫生診所,Dr. Leung Shu Piu Clinic,Dr. Leung Shu Piu Clinic,梁樹標醫生診所,"Shop 11, 1 Wu Kwong Street, HUNG HOM, KOWLOON",九龍紅磡湖光街1號11號舖,25295582,25295582,mRNA,"Monday - Saturday 10:00a.m. to 1:30p.m. and 3:00p.m. to 7:00p.m.
+Others:
+Closed - Sunday, Public holiday","星期一至六上午 10 時至下午 1 時 30 分及下午 3 時至下午 7 時
+其他：
+休息 - 星期日、公眾假期",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-10-12,837260,818584,837260,818584
+10,C02342,Yau Tsim Mong District,油尖旺區,百本專業護理服務,Bamboos PNS,Bamboos Professional Nursing Services Limited,百本專業護理服務,"8/F, 612-618 Nathan Road , Good Hope Building, MONG KOK, KOWLOON",九龍旺角彌敦道612-618號好望角大廈8樓,25755893,25755893,mRNA,"Monday to Wednesday, Friday, Saturday 10:30a.m. to 1:30p.m. and 3:30p.m. to 7:00p.m., Sunday 10:30a.m. to 12:30p.m. and 2:30p.m. to 4:00p.m
+Others:
+Closed - Thursday, Public holidays","星期一至三、五、六上午 10 時 30 分至下午 1 時 30 分及下午 3 時 30 分至 7 時、星期日上午 10 時 30 分 至下午 12 時 30 分及下午 2 時 30 分至 4 時
+其他：
+休息 – 星期四、公眾假期",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-10-12,835569,819812,835569,819812
+11,C02343,Yau Tsim Mong District,油尖旺區,莊柏醫療,JP Partners Medical,JP Partners Medical Centre Limited,莊柏醫療中心有限公司,"Rm 1502-1505, T.O.P., 700 Nathan Road, MONG KOK, KOWLOON",九龍旺角彌敦道700號T.O.P.商場1502-1505室,26189510,26189510,mRNA,"Monday, Wednesday, Saturday 9:00a.m. to 12:30p.m. and Tuesday, Friday 3:00p.m. to 5:30p.m
+Others:
+Closed - Thursday, Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Tuesday 9:00a.m. to 1:00 p.m. and 3:00p.m. to 6:00p.m., Saturday 9:00a.m. to 1:00 p.m.
+Others:
+Closed - Monday, Wednesday, Thursday, Friday, Sunday, Public holiday)","星期一、三、六上午 9 時至下午12 時 30 分及星期二、五下午 3 時至 5 時 30 分
+其他：
+休息 – 星期四、日、公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期二上午 9 時至下午 1 時及下午3 時至 6 時、星期六上午 9 時至下午 1 時
+其他：
+休息 –星期一、三、四、五、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-10-12,835492,820173,835492,820173
+12,C02345,North District,北區,莊柏醫療,JP Partners Medical,JP Partners Medical Centre Limited,莊柏醫療中心有限公司,"1303A-5, Landmark North, 39 Lung Sum Avenue, SHEUNG SHUI, NEW TERRITORIES",新界上水上水廣場龍琛路39號1303A 5號舖,26180888,26180888,mRNA,"Monday, Tuesday, Thursday, Friday and Saturday 9:00a.m. to 12:30p.m. and 3:00p.m. to 5:30p.m
+Others:
+Closed - Wednesday, Sunday, Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Monday, Thursday and Saturday 9:00a.m. to 12:30p.m. and 3:00p.m. to 5:30p.m
+Others:
+Closed - Tuesday, Wednesday, Friday, Sunday, Public holiday)","星期一、二、四、五、六上午 9 時至下午 12 時 30 分及下午 3 時至 5時 30 分
+其他：
+休息 - 星期三、日、公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期一、四、六上午 9 時至下午12 時 30 分及下午 3 時至 5 時 30 分
+其他：
+休息 – 星期二、三、五、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-10-12,831222,840325,831222,840325
+13,C02346,Sai Kung District,西貢區,緻仁醫療中心,Dedicare Medical Centre,Dedicare Medical Centre,緻仁醫療中心,"Shop No. 249, Metro City Phase 1, 1 Wan Hang Road, TSEUNG KWAN O, NEW TERRITORIES",新界將軍澳新都城一期運亨路1號249號舖,24682248,24682248,mRNA,"Monday, Tuesday, Thursday, Friday, Saturday 10:00a.m. to 12:30p.m. and 2:00p.m. to 5:30p.m.
+Others:
+Closed - Wednesday, Sunday, Public holiday
+(The following arrangements are applicable from 15/10/2024 to 17/11/2024:
+Tuesday, Thursday & Saturday 10:00a.m. to 12:30p.m. and 2:00p.m. to 5:30p.m.
+Others:
+Closed - Monday, Wednesday, Friday, Sunday, Public holiday)","星期一、二、四、五、六上午10時至下午12時30分、下午2時至5時30分
+其他：
+休息 - 星期三、日、公眾假期
+(以下安排適用於 15/10/2024 -17/11/2024：
+星期二、四、六上午 10 時至下午12 時 30 分及下午 2 時至下午 5 時30 分 
+其他：
+休息 – 星期一、三、五、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2022-10-12,844557,820244,844557,820244
+14,C02442,Southern District,南區,港怡醫院 (幼兒/兒童-信使核糖核酸),Gleneagles Hospital Hong Kong (mRNA - Toddler/Paediatric),Gleneagles Hospital Hong Kong,港怡醫院,"Paediatric Clinic (Clinic P), 1/F, Tower A, Gleneagles Hospital Hong Kong, 1 Nam Fung Path, WONG CHUK HANG, HONG KONG",香港黃竹坑南風徑 1 號港怡醫院A座一樓兒科門診(診所P),31539139,31539139,mRNA,"(mRNA - Paediatric) Monday - Wednesday 9:00a.m. to 10:00a.m. and 3:00p.m. to 4:00p.m. 
+(mRNA - Toddler) Thursday - Friday 9:00a.m. to 10:00a.m. and 3:00p.m. to 4:00p.m.
+Others:
+Closed - Saturday, Sunday, Public holiday 
+(The following arrangements are applicable from 15/10/2024 to 17/11/2024:
+Tuesday, Wednesday and Friday 3:00p.m. to 5:00p.m.
+Others:
+Closed - Monday, Thursday, Saturday, Sunday, Public holiday)","(兒童-信使核糖核酸) 星期一至三上午9時至10時、下午3時至4時
+(幼兒-信使核糖核酸) 星期四至五上午9時至10時、下午3時至4時
+其他：
+休息 - 星期六、日、公眾假期
+(以下安排適用於 15/10/2024 - 17/11/2024： 
+星期二、三、五下午 3 時至下午 5時 
+其他： 
+休息 – 星期一、四、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2023-06-02,836241,812531,836241,812531
+15,C02443,Sha Tin District,沙田區,香港中文大學醫學中心 (成人及幼兒/兒童-信使核糖核酸),"CUHK Medical Centre (mRNA - Adult/ Toddler/
+Paediatric)",CUHK Medical Centre,香港中文大學醫院,"8/F, 9 Chak Cheung Street, SHATIN, NEW TERRITORIES",新界沙田澤祥街9號8樓,39466888,39466888,mRNA,"(mRNA – Adult) Monday - Friday 10:00a.m. to 12:30p.m. and 2:30p.m. to 5:00p.m. 
+Others: 
+Closed - Saturday, Sunday, Public holiday 
+(The following arrangements are applicable from 07/10/2024 to 17/11/2024: 
+(mRNA - Adult) Wednesday - Friday 10:00a.m. to 12:30p.m. and 2:30p.m. to 5:00p.m. 
+Others: 
+Closed - Monday, Tuesday, Saturday, Sunday, Public holiday) 
+ 
+(mRNA - Toddler/Paediatric) Friday 10:00a.m. to 12:30p.m.
+Others:
+Closed - Monday to Thursday, Saturday, Sunday, Public holiday","(成人-信使核糖核酸) 星期一至五上午10時至下午12時30分及下午2時30分至5時
+其他：
+休息 - 星期六、日及公眾假期
+(以下安排適用於 07/10/2024 -17/11/2024：
+(成人-信使核糖核酸) 星期三至五上午 10 時至下午 12 時 30 分及下午 2 時 30 分至 5 時
+其他：
+休息 – 星期一、二、六、日及公眾假期) 
+
+(幼兒/兒童-信使核糖核酸) 星期五上午10時至下午12時30分
+其他：
+休息 - 星期一至四、星期六、日及公眾假期",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2023-06-02,839815,830464,839815,830464
+16,C02477,Wong Tai Sin District,黃大仙區,新都醫療中心,New Town Medical,New Town Medical,新都醫療,"Shop 301-302, 3/F, Temple Mall North, Upper Wong Tai Sin Estate, 136 Lung Cheung Road, WONG TAI SIN, KOWLOON",九龍黃大仙龍翔道 136 號黃大仙上邨黃大仙中心北館 3 樓 301-302 鋪,21533992,21533992,mRNA,"Monday to Saturday 9:00a.m. to 12:30p.m.
+Others:
+Closed - Sunday, Public holiday 
+(The following arrangements are applicable from 15/10/2024 to 17/11/2024:
+Monday, Wednesday, Thursday 9:00a.m. to 12:30p.m.
+Others:
+Closed - Tuesday, Friday, Saturday, Sunday, Public holiday)","星期一至六上午9時至下午12時30分
+其他：
+休息 – 星期日、公眾假期
+(以下安排適用於 15/10/2024 - 17/11/2024：
+星期一、三、四上午 9 時至下午12 時 30 分 
+其他：
+休息 – 星期二、五、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2024-01-16,837808,822561,837808,822561
+17,C02479,Yuen Long District,元朗區,新都綜合醫務中心,New Town Integrated Medical Centre,New Town Medical,新都醫療,"Shop 8, G/F Wang Fung Building, No. 2 Fau Tsoi Street, YUEN LONG, NEW TERRITORIES",新界元朗阜財街 2 號宏豐大廈地下 8 號鋪,24436220,24436220,mRNA,"Monday to Friday 9:00a.m. to 12:30p.m. and 3:00p.m. to 6:00p.m. and Saturday & Sunday 9:00a.m. to 12:30p.m and 2:30p.m. to 5:30p.m.
+Others:
+Closed - Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Tuesday, Thursday 9:00a.m. to 12:30p.m. and 3:00p.m. to 6:00p.m. and Saturday 9:00a.m. to 12:30p.m and 2:30p.m. to 5:30p.m.Others:
+Closed - Monday, Wednesday, Friday, Sunday, Public holiday)","星期一至五上午 9 時至下午 12 時30 分及下午 3 時至 6 時、星期六、日上午 9 時至下午 12 時 30 分及下午 2 時 30 分至 5 時 30 分
+其他：
+休息 - 公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期二、四上午 9 時至下午 12 時 30 分及下午 3 時至 6 時、星期六上午 9 時至下午 12 時 30 分及下午 2 時 30 分至 5 時 30 分
+其他：
+休息 – 星期一、三、五、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2024-01-16,821228,833845,821228,833845
+18,C02481,Southern District,南區,港怡醫院 (成人-信使核糖核酸),Gleneagles Hospital Hong Kong (mRNA- Adult),Gleneagles Hospital Hong Kong,港怡醫院,"(Clinic K), G/F, Tower B, Gleneagles Hospital Hong Kong, 1 Nam Fung Path, WONG CHUK HANG, HONG KONG",香港黃竹坑南風徑 1 號港怡醫院 B 座地下(診所K),31539000,31539000,mRNA,"(mRNA– Adult) Monday - Friday 3:00p.m. to 5:00p.m.
+Others:
+Closed - Saturday, Sunday, Public holiday 
+(The following arrangements are applicable from 15/10/2024 to 17/11/2024:
+Tuesday, Wednesday and Friday 3:00p.m. to 5:00p.m.
+Others:
+Closed - Monday, Thursday, Saturday, Sunday, Public holiday)","(成人-信使核糖核酸)星期一至五下午 3 時至 5 時
+其他：
+休息 - 星期六、日、公眾假期
+(以下安排適用於 15/10/2024 - 17/11/2024： 
+星期二、三、五下午 3 時至下午 5時 
+其他： 
+休息 – 星期一、四、六、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2024-02-07,836241,812531,836241,812531
+19,C02505,Tsuen Wan District,荃灣區,莊柏醫療,JP Partners Medical,JP Partners Medical Centre Limited,莊柏醫療中心有限公司,"Shop Unit P10B, Luk Yeung Galleria, 22-66 Wai Tsuen Road, TSUEN WAN, NEW TERRITORIES",新界荃灣蕙荃路22-66號綠楊坊平台P10B號舖,26183805,26183805,mRNA,"Monday, Saturday 10:00a.m. to 12:30p.m., Tuesday to Friday 10:00a.m. to 12:30p.m. and 3:00p.m. to 6:00p.m., Sunday 9:30a.m. to 11:30a.m.
+Others:
+Closed – Public holiday
+(The following arrangements are applicable from 15/08/2024 to 17/11/2024:
+Monday, Saturday 10:00a.m. to 12:30p.m. and Wednesday 10:00a.m. to 12:30p.m. and 3:00p.m. to 6:00p.m.
+Others:
+Closed - Tuesday, Thursday, Friday, Sunday, Public holiday)","星期一、六上午 10 時至下午 12 時30 分、星期二至五上午 10 時至下午 12 時 30 分及下午 3 時至 6 時、星期日上午 9 時 30 分至上午 11 時30 分
+其他：
+休息 – 公眾假期
+(以下安排適用於 15/08/2024 - 17/11/2024：
+星期一、六上午 10 時至下午 12 時 30 分、星期三上午 10 時至下午 12 時 30 分及下午 3 時至 6 時、
+其他：
+休息 – 星期二、四、五、日、公眾假期)",https://booking.covidvaccine.gov.hk/forms/index.jsp,https://booking.covidvaccine.gov.hk/forms/index_tc.jsp,2024-07-08,830331,825984,830331,825984
