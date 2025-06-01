@@ -20,6 +20,6 @@ An interactive web application to track and analyze disease hotspots in real-tim
 - Google Health COVID-19 Open Data
 - Public health datasets and synthetic test data.
 
-![Screenshot](./screenshots/Screenshot 2024-11-24 023828.png)
-![Map View Screenshot](./screenshots/Screenshot 2024-11-24 191819.png)  
-![Map View Screenshot](./screenshots/Screenshot 2024-11-23 152710.png)
+![Screenshot](./screenshots/Screenshot_2024-11-24 023828.png)
+![Map View Screenshot](./screenshots/Screenshot_2024-11-24 191819.png)  
+![Map View Screenshot](./screenshots/Screenshot_2024-11-23 152710.png)
